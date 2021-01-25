@@ -1,0 +1,41 @@
+h1{
+	font-size: : 120px;
+	font-family: cursive;
+	border-color: dodgerblue;
+	background-color: dodgerblue;
+	padding: 50px;
+	border: 2px;
+	margin-right: 100px;
+}
+
+h5{
+	font-size: 60px;
+	font-family: courier;
+	border-color: gray;
+	background-color: gray;
+	padding: 40px;
+	margin-right: 220px
+
+
+}
+h6{
+	font-size: 100px;
+	font-family: verdana;
+	border-color: slateblue;
+	background-repeat: slateblue;
+	padding:50px;
+}
+h2{
+	font-family: verdana;
+	border-color: violet;
+	background-color: violet;
+	padding:40px;
+}
+img{
+	width: 500px;
+	height: 500px;
+}
+img{
+	width: 90px;
+	height: 90px;
+}
